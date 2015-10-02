@@ -1,6 +1,6 @@
 # /ruby/go
 
-### Presenters: Brittany Wald [@joyousbanana](https://twitter.com/joyousbanana) & Jen Eisenberg [@jeisenberg0](https://twitter.com/jeisenberg0), Paperless Post
+### Presenters: Brittany Wald ([@joyousbanana](https://twitter.com/joyousbanana)) & Jen Eisenberg ([@jeisenberg0](https://twitter.com/jeisenberg0)), Paperless Post
 ----
 
 - Internal Tools team, fairly new team

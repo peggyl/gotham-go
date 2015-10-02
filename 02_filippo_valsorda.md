@@ -1,6 +1,6 @@
 # Fuzzing Beyond Security: Automated Testing with go-fuzz
 
-### Presenter: Filippo Valsorda, Cloudflare (@FiloSottile](https://twitter.com/@FiloSottile))
+### Presenter: Filippo Valsorda, Cloudflare ([@FiloSottile](https://twitter.com/@FiloSottile))
 ----
 
 - Function should parse binary input from network (e.g. DNS packet).
