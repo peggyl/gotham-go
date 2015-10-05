@@ -28,5 +28,4 @@
 - Memory mapping lets the OS handle caching for you. Hide from the garbage collector. Use `syscall.mmap`.
 - Compression depends on shape of your data. Random floats are the worst; reusing the same float is the best.
 - Write throughput dpeneds on batching, CPU, and memory. Currently bound by CPU, not I/O.
-
 - Detailed writeup next week on http://influxdb.com/blog.html
