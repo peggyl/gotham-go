@@ -16,7 +16,7 @@ In order of presentation:
 * 05 - [The "Modern" Garbage Collector](05_veronica_lopez.md) - Verónica López
 * 06 - [Go Highlights from the New InfluxDB Storage Engine](06_paul_dix.md) - Paul Dix
 * 07 - [Boring is Beautiful](07_kyle_erf.md) - Kyle Erf
-* 08 - [The Network is the Computer](08_jason_moiron.md) - Jason Moiron
+* 08 - [Go Can Make You Better At Your Job](08_brendan_obrien.md) - Brendan O'Brien
 * 09 - [Chaos Monkey on Your Laptop](09_matthew_campbell.md) - Matthew Campbell
 * 10 - [Go and gRPC](10_sameer_ajmani.md) - Sameer Ajmani
 * 11 - [What's New in Go Crypto](11_nick_sullivan.md) - Nick Sullivan
