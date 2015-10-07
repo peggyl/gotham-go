@@ -19,5 +19,5 @@ In order of presentation:
 * 08 - [The Network is the Computer](08_jason_moiron.md) - Jason Moiron
 * 09 - [Chaos Monkey on Your Laptop](09_matthew_campbell.md) - Matthew Campbell
 * 10 - [Go and gRPC](10_sameer_ajmani.md) - Sameer Ajmani
-* 11 - [What's New in Go Crypto](11_nick_sullivan.nd) - Nick Sullivan
+* 11 - [What's New in Go Crypto](11_nick_sullivan.md) - Nick Sullivan
 * 12 - [The Legacy of Go](12_dave_cheney.md) - Dave Cheney
